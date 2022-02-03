@@ -12,11 +12,12 @@ In the game *Dead by Daylight*, you are able to choose up to four *perks* to enh
 
 ![perks](https://user-images.githubusercontent.com/21096047/152268564-baed71b9-6ac8-4f09-bf9f-3298cc364821.png)
 
-From just these symbols, it can be confusing for newer players to tell what perks were selected, let's say, from footage of their favorite YouTuber. So they would need to browse through a list of 191 total perks from the game wiki to find information about them.
+From just these symbols, it can be confusing for newer players to tell what perks were selected, let's say, from footage of their favorite YouTuber. So they would need to browse through a list of 191 total perks in the game wiki to find information about them.
 
 *Dex by Daylight* is a site that simplifies this by allowing users to search for perks based on keywords found in the icon, as well as in the perk's description.
 
 **Example**
+
 ![search preview](https://user-images.githubusercontent.com/21096047/152269673-a382e2f1-ef77-4b51-9cc1-f1c8ca7d567f.jpeg)
 
 ## Installation
